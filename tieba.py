@@ -257,7 +257,7 @@ class LikeHotForums(Task):
 
 
 if __name__ == "__main__":
-    cli = Tieba("EpqSTVqY2Z3OUhSb21sbTJhSjR-VzZGS1JTRn5uSjhhRm9OSnpoamR1MFhXbXhuSVFBQUFBJCQAAAAAAAAAAAEAAABG3SYhxba1zsnxMjMwNwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABfNRGcXzURnd", [
+    cli = Tieba("此处填入cookie", [
         LarkChannel("<飞书 webhook>"),
         WorkWechatBotChannel("<企业微信机器人 key>"),
     ])
