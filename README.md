@@ -5,7 +5,7 @@
 ## 使用方法
 
 1. 登录 [网页版贴吧](https://tieba.baidu.com/)
-2. 找到名为 `BDUSS` 的 cookie，填入到脚本中
+2. 找到名为 `BDUSS` 的 cookie，填入'tieba.py'中
 3. 安装依赖: `pip install -r requirements.txt`
 4. 运行脚本: `点击 运行.cmd`
 
