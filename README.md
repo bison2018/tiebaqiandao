@@ -4,7 +4,7 @@
 
 ## 使用方法
 
-1. 登录 [网页版贴吧](https://tieba.baidu.com/),按F12->网络->选个链接,在cookie中找到找到名为 `BDUSS` 的值
+1. 登录 [网页版贴吧](https://tieba.baidu.com/),按F12->网络->刷新->选个链接,在cookie中找到找到名为 `BDUSS` 的值
 2. 下载所有文件,，文件'tieba.py'中'此处填入cookie'替换为`BDUSS` 的值
 3. 安装Python
 4. 安装依赖: `pip install -r requirements.txt`
